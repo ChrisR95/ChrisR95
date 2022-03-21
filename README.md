@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a lot but I think there is more for me to learn here then the other way around!
 - 📫 How to reach me: You can probably send some sort of message through Github. I'm honestly new and have no idea yet :) 
 
-Thank to everybody out here sharing knowledge and helping eachother out! Maybe one day i'll be able to repay the favor to some stranger :) 
+Thanks to everybody out here sharing knowledge and helping eachother out! Maybe one day i'll be able to repay the favor to some stranger :) 
 
 <!---
 ChrisR95/ChrisR95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
